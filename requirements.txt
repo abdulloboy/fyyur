@@ -1,0 +1,11 @@
+babel
+dateutils
+flask-migrate
+flask-moment
+flask_sqlalchemy
+flask-wtf
+Jinja2
+python-dateutil
+psycopg2
+python-dotenv
+SQLALchemy
